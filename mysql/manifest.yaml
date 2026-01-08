@@ -44,7 +44,7 @@ spec:
   replicas: 2 
   template:
     metadata:
-      lables:
+      labels:
         project: expense
         component: mysql
         tier: db 
